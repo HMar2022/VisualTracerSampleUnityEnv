@@ -1,7 +1,8 @@
 # Visual Tracer Unity Sample
-This repository includes basic dependencies needed for Visual Tracer based on Unity 2021.3.16f1.
 
 ![image](https://user-images.githubusercontent.com/101270818/213839772-3a583d96-817e-409a-b35b-fbac4b0c784c.png)
+## Introduction 
+This repository includes a sample Unity environment for generating necessary data for Visual Tracer based on Unity 2021.3.16f1.
 
 ## Usage
 1. Import this into Unity Editor
