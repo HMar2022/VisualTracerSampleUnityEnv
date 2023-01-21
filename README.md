@@ -1,5 +1,6 @@
 # Visual Tracer Unity Sample
-by HT Ma
+This repository includes a sample Unity environment for generating necessary data for Visual Tracer based on Unity 2021.3.16f1.
+
 
 ![image](https://user-images.githubusercontent.com/101270818/213839772-3a583d96-817e-409a-b35b-fbac4b0c784c.png)
 
@@ -10,10 +11,9 @@ The key features of Visual Tracer is its ability to quantify the attractiveness 
 
 Visual Tracer can be applied at various scales, from the interior to the urban scale, and has the potential to revolutionize research in fields such as Praxeology, architecture, urban planning, and game design. In particular, the ability of Visual Tracer to quantify the attractiveness of space can be used to study the relationship between human behavior and the physical and aesthetic qualities of a space at different scales, providing valuable insights into human behavior and allowing for more accurate predictions and design decisions.
 
-![image](https://user-images.githubusercontent.com/101270818/213840866-c3183f52-2abe-4a6a-8529-f72e2a32aec7.png)
+![image](https://user-images.githubusercontent.com/101270818/213843402-73781966-6ff6-4978-a9ef-c4ade6ca09a5.png)
 
 ## Introduction 
-This repository includes a sample Unity environment for generating necessary data for Visual Tracer based on Unity 2021.3.16f1.
 
 ## Usage
 This repository needs to work with Visual Tracer grasshopper components.
