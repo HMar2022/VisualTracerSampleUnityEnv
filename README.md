@@ -4,6 +4,7 @@
 
 ## Visual Tracer
 The Visual Tracer extension for Grasshopper is a revolutionary tool for the analysis and visualization of spatial visual qualities within digital environments. Compatible with Unity and Unity VR, as well as upcoming VR and AR systems such as Apple VR and Microsoft Hololens, Visual Tracer allows for the collection of data on user preferences and behavior within a given space, providing an unparalleled level of insight into the spatial qualities of a given environment.
+![image](https://user-images.githubusercontent.com/101270818/213840866-c3183f52-2abe-4a6a-8529-f72e2a32aec7.png)
 
 The key features of Visual Tracer is its ability to quantify the attractiveness of space and generate heatmaps to visualize this attractiveness, providing a clear and easy-to-understand representation of user preferences for surfaces, directions, and spaces. These heatmaps allow for informed decisions about the placement and arrangement of elements within a digital environment, leading to the creation of more immersive and engaging experiences for users. Additionally, by providing an intuitive understanding of the spatial qualities of a given environment, Visual Tracer facilitates efficient and effective design decisions at the early stages of the design process, saving valuable time and resources.
 
