@@ -1,16 +1,14 @@
-# Visual Tracer Unity Sample
-This repository includes a sample Unity environment for generating necessary data for Visual Tracer based on Unity 2021.3.16f1.
 
+<img src="https://user-images.githubusercontent.com/101270818/213848309-c30fd141-7cd7-44d6-a9c3-ad1a2c354825.png" width="100">
 
-
-## Visual Tracer
+# Visual Tracer
 by Haotian Ma
-<img src="https://user-images.githubusercontent.com/101270818/213848309-c30fd141-7cd7-44d6-a9c3-ad1a2c354825.png" width="200">
+
 
 The Visual Tracer extension for Grasshopper is a revolutionary tool for the analysis and visualization of spatial visual qualities within digital environments. Compatible with Unity and Unity VR, as well as upcoming VR and AR systems such as Apple VR and Microsoft Hololens, Visual Tracer allows for the collection of data on user preferences and behavior within a given space, providing an unparalleled level of insight into the spatial qualities of a given environment.
 
-
 ![image](https://user-images.githubusercontent.com/101270818/213839772-3a583d96-817e-409a-b35b-fbac4b0c784c.png)
+
 
 ## Introduction 
 
@@ -24,6 +22,8 @@ Visual Tracer can be applied at various scales, from the interior to the urban s
 <img src="https://user-images.githubusercontent.com/101270818/213843438-fa84766c-9822-4082-8da0-e095693b2362.png" width="400"> <img src="https://user-images.githubusercontent.com/101270818/213843466-85aeb6d6-d504-49b4-bdf1-9416a819eb90.png" width="400">
 <img src="https://user-images.githubusercontent.com/101270818/213843580-d4ba0713-3302-412a-aafc-9438ef0e76f1.png" width="400"> <img src="https://user-images.githubusercontent.com/101270818/213843628-5d21db83-f6f6-49ed-9d7b-ede9c15d0818.png" width="400">
 
+## Visual Tracer Unity Sample
+This repository includes a sample Unity environment for generating necessary data for Visual Tracer based on Unity 2021.3.16f1.
 
 ## Usage
 This repository needs to work with Visual Tracer grasshopper components.
