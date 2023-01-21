@@ -20,8 +20,8 @@ Visual Tracer can be applied at various scales, from the interior to the urban s
 
 <img src="https://user-images.githubusercontent.com/101270818/213843402-73781966-6ff6-4978-a9ef-c4ade6ca09a5.png" width="1000">
 
-<img src="https://user-images.githubusercontent.com/101270818/213843438-fa84766c-9822-4082-8da0-e095693b2362.png" width="500"> <img src="https://user-images.githubusercontent.com/101270818/213843466-85aeb6d6-d504-49b4-bdf1-9416a819eb90.png" width="500">
-<img src="https://user-images.githubusercontent.com/101270818/213843580-d4ba0713-3302-412a-aafc-9438ef0e76f1.png" width="500"> <img src="https://user-images.githubusercontent.com/101270818/213843628-5d21db83-f6f6-49ed-9d7b-ede9c15d0818.png" width="500">
+<img src="https://user-images.githubusercontent.com/101270818/213843438-fa84766c-9822-4082-8da0-e095693b2362.png" width="300"> <img src="https://user-images.githubusercontent.com/101270818/213843466-85aeb6d6-d504-49b4-bdf1-9416a819eb90.png" width="300">
+<img src="https://user-images.githubusercontent.com/101270818/213843580-d4ba0713-3302-412a-aafc-9438ef0e76f1.png" width="300"> <img src="https://user-images.githubusercontent.com/101270818/213843628-5d21db83-f6f6-49ed-9d7b-ede9c15d0818.png" width="300">
 
 
 ## Usage
