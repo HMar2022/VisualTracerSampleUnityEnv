@@ -6,7 +6,7 @@ This repository includes a sample Unity environment for generating necessary dat
 
 ## Usage
 1. Import this into Unity Editor
-2. Click play button or press Ctrl+P to run Unity sample file
-3. Press W,S,A,D and Space to navigate the environment
-4. Click Stop button or press Ctrl+P once again to stop running Unity
-5. A .stair file will be stored at your desktop, load it by Visual Tracer Main to Start
+2. Click `Play` button or press `Ctrl+P` to run Unity sample file
+3. Press `W,S,A,D` and `Space` to navigate the environment
+4. Click `Stop` button or press `Ctrl+P` once again to stop running Unity
+5. A `.stair` file will be saved at your desktop, load it by Visual Tracer Main to initialize Visual Tracer
